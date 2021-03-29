@@ -1,5 +1,6 @@
 Author: Eduardo Munoz
-Title: Git
+Co-author: John Smith
+Title: Git Exp
 
 Introduction
 
