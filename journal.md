@@ -1,4 +1,4 @@
-Author: Eduardo Munoz
+Author: John & Eduardo Munoz
 Title: Git
 
 Introduction
