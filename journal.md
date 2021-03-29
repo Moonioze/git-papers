@@ -1,4 +1,6 @@
 Author: Eduardo Munoz
+Author Affiliations: WCM
+
 Title: Git
 
 Introduction
